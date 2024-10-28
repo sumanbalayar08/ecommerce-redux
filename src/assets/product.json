@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Eco-Friendly Bamboo Toothbrush",
+    "description": "A biodegradable toothbrush made from sustainably sourced bamboo. Soft bristles provide effective cleaning without harming sensitive gums.",
+    "price": 3.99,
+    "category": "Personal Care",
+    "rating": 4.8,
+    "stockQuantity": 200
+  },
+  {
+    "id": 2,
+    "name": "Organic Cotton T-Shirt",
+    "description": "Comfortable, 100% organic cotton t-shirt available in multiple colors. Perfect for eco-conscious consumers who care about both comfort and the environment.",
+    "price": 15.99,
+    "category": "Apparel",
+    "rating": 4.5,
+    "stockQuantity": 120
+  },
+  {
+    "id": 3,
+    "name": "Reusable Stainless Steel Water Bottle",
+    "description": "Double-walled, insulated water bottle that keeps drinks cold for 24 hours and hot for 12 hours. Made from BPA-free, high-grade stainless steel.",
+    "price": 19.99,
+    "category": "Kitchen & Dining",
+    "rating": 4.9,
+    "stockQuantity": 80
+  },
+  {
+    "id": 4,
+    "name": "Eco-Friendly Shopping Bag",
+    "description": "Reusable shopping bag made from recycled materials. Durable and easy to fold, perfect for groceries or everyday use.",
+    "price": 2.99,
+    "category": "Accessories",
+    "rating": 4.7,
+    "stockQuantity": 300
+  },
+  {
+    "id": 5,
+    "name": "Natural Beeswax Candles",
+    "description": "Hand-poured candles made from 100% natural beeswax. Free from toxins and synthetic fragrances, creating a cozy, eco-friendly ambiance.",
+    "price": 9.99,
+    "category": "Home & Living",
+    "rating": 4.6,
+    "stockQuantity": 50
+  },
+  {
+    "id": 6,
+    "name": "Organic Herbal Tea Set",
+    "description": "A variety pack of organic, loose-leaf herbal teas. Sourced from sustainable farms and packaged in compostable bags.",
+    "price": 12.99,
+    "category": "Food & Beverages",
+    "rating": 4.8,
+    "stockQuantity": 100
+  },
+  {
+    "id": 7,
+    "name": "Recycled Notebook Set",
+    "description": "Set of 3 notebooks made from recycled paper. Ideal for students, artists, or eco-conscious professionals.",
+    "price": 5.99,
+    "category": "Stationery",
+    "rating": 4.5,
+    "stockQuantity": 150
+  },
+  {
+    "id": 8,
+    "name": "Vegan Leather Wallet",
+    "description": "Sleek and durable wallet made from high-quality vegan leather. Multiple compartments for cards, cash, and coins.",
+    "price": 22.99,
+    "category": "Accessories",
+    "rating": 4.4,
+    "stockQuantity": 75
+  }
+]
